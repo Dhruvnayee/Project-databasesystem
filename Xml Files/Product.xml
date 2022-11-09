@@ -1,0 +1,5 @@
+<Product>
+  <Product Product_id="655" name="Soaps" Availability="1" />
+  <Product Product_id="999" name="Detergent" Availability="0" />
+  <Product Product_id="1020" name="Dry fruits" Availability="1" />
+</Product>
